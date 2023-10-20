@@ -1,0 +1,14 @@
+FT12-100.jpg
+FT12-105.jpg
+FT12-110.jpg
+FT12-125.jpg
+FT12-150.jpg
+FT12-155.jpg
+FT12-180.jpg
+FT12-190.jpg
+FT12-200.jpg
+FT12-55.jpg
+FT12-75.jpg
+FT12-80.jpg
+list.txt
+提取文件名.bat
